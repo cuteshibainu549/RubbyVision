@@ -1009,7 +1009,7 @@ https://dv6fza91pwlw3.cloudfront.net/out/v1/6f059cfe2653405aab54a7887f92ac39/ind
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=7150&type=drm
 https://tvratu.my.id/vid/index.mpd?id=7150&type=dash
 
-#EXTINF:-1 tvg-id="RCTI.id" group-title="Are You Abroad?" ch-number="201" tvg-logo="https://www.visionplus.id/images/repository/720/507720-LOGO-m.png",RCTI HD
+#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" group-title="Are You Abroad?" ch-number="201" tvg-logo="https://www.visionplus.id/images/repository/426/173426-LOGO-m.png",RCTI World HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1018,7 +1018,7 @@ https://tvratu.my.id/vid/index.mpd?id=7150&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=201&type=fitnah
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/ac934bd649dc47f699f793634de01635/index.mpd
 
-#EXTINF:-1 tvg-id="GTV.id" group-title="Are You Abroad?" ch-number="202" tvg-logo="https://www.visionplus.id/images/repository/735/507735-LOGO-m.png",GTV HD
+#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" group-title="Are You Abroad?" ch-number="202" tvg-logo="https://www.visionplus.id/images/repository/424/173424-LOGO-m.png",GTV World HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1027,7 +1027,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/ac934bd649dc47f699f793634de01635/in
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=202&type=fitnah
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b2c774f2a6fc4cd1917459335d8231df/index.mpd
 
-#EXTINF:-1 tvg-id="MNCTV.id" group-title="Are You Abroad?" ch-number="203" tvg-logo="https://www.visionplus.id/images/repository/750/507750-LOGO-m.png",MNCTV HD
+#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" group-title="Are You Abroad?" ch-number="203" tvg-logo="https://www.visionplus.id/images/repository/425/173425-LOGO-m.png",MNCTV World HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1036,7 +1036,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b2c774f2a6fc4cd1917459335d8231df/in
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=203&type=fitnah
 https://d2tjypxxy769fn.cloudfront.net/out/v1/52f468e951c14c6ba80d4d31c833fce6/index.mpd
 
-#EXTINF:-1 tvg-id="iNews.id" group-title="National TV" ch-number="204" tvg-logo="https://www.visionplus.id/images/repository/792/513792-LOGO-m.png",iNews HD
+#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" group-title="Are You Abroad?" ch-number="204" tvg-logo="https://www.visionplus.id/images/repository/427/173427-LOGO-m.png",Drama World HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
