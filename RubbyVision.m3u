@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml, https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" refresh="3600"
+#EXTM3U url-tvg="https://warningfm.github.io/multi-epg/epg/guide.xml.gz" refresh="3600"
 
 
 ##########################RubbyVision##########################
