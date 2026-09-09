@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml, https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz, https://www.open-epg.com/files/indonesia.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz" refresh="3600"
+#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml, https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz, https://www.open-epg.com/files/indonesia.xml.gz" refresh="3600"
 
 
 ##########################RubbyVision##########################
