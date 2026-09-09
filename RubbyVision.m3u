@@ -1059,6 +1059,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=251&type=fitnah
 https://op-group1-densxvisionhd-1.dens.tv/h/h248/index.m3u8
 
 #EXTINF:-1 tvg-id="DensPlay.id@SD" group-title="Lifestyle" ch-number="252" tvg-logo="https://www.visionplus.id/images/repository/088/115088-LOGO-m.png",Dens Play HD
@@ -1066,6 +1068,8 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h248/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=252&type=fitnah
 https://op-group1-densxvisionhd-1.dens.tv/h/h225/index.m3u8
 
 #EXTINF:-1 tvg-id="DensShowBiz.id@SD" group-title="Lifestyle" ch-number="253" tvg-logo="https://www.visionplus.id/images/repository/712/112712-LOGO-m.png",Dens Showbiz HD
@@ -1073,4 +1077,6 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h225/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=253&type=fitnah
 https://op-group1-densxvisionhd-1.dens.tv/h/h203/index.m3u8
