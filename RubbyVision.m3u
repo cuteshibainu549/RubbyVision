@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml, https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz, https://www.open-epg.com/files/indonesia.xml.gz" refresh="3600"
+#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml, https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" refresh="3600"
 
 
 ##########################RubbyVision##########################
@@ -1045,7 +1045,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/52f468e951c14c6ba80d4d31c833fce6/in
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=204&type=fitnah
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
 
-#EXTINF:-1 tvg-id="Sportstars4.id" group-title="Sports" ch-number="205" tvg-logo="https://www.visionplus.id/images/repository/691/691-LOGO-m.png",Sportstars 4 HD
+#EXTINF:-1 tvg-id="Sportstars3.id@SD" group-title="Sports" ch-number="205" tvg-logo="https://www.visionplus.id/images/repository/691/691-LOGO-m.png",Sportstars 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
