@@ -129,7 +129,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/in
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=14&type=fitnah
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
-#EXTINF:-1 tvg-id="BTV.id@SD" tvg-name="BTV" group-title="News" ch-number="15" tvg-logo="https://www.visionplus.id/images/repository/357/273357-LOGO-m.png",BTV
+#EXTINF:-1 tvg-id="BTV.id@SD" tvg-name="BTV" group-title="News" ch-number="15" tvg-logo="https://www.visionplus.id/images/repository/357/273357-LOGO-m.png",BTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -138,7 +138,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=15&type=fitnah
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd
 
-#EXTINF:-1 tvg-id="TVRI.id@SD" tvg-name="TVRI" group-title="National TV" ch-number="16" tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png",TVRI
+#EXTINF:-1 tvg-id="TVRI.id@SD" tvg-name="TVRI" group-title="National TV" ch-number="16" tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png",TVRI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
