@@ -93,7 +93,7 @@ https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=10&type=fitnah
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
-#EXTINF:-1 tvg-id="RajawaliTV.id@SD" tvg-name="RTV" group-title="National TV" ch-number="11" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png",RTV
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD" tvg-name="RTV" group-title="National TV" ch-number="11" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png",RTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -235,7 +235,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9688c51b534d4165bf4b0b328e53b980/in
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=29&type=fitnah
 https://d2tjypxxy769fn.cloudfront.net/out/v1/319544fbde164be4b023d62fcd116d14/index.mpd
 
-#EXTINF:-1 tvg-id="TVMu.id@SD" tvg-name="tvMU" group-title="Religion" ch-number="30" tvg-logo="https://www.visionplus.id/images/repository/603/603-LOGO-m.png",tvMu
+#EXTINF:-1 tvg-id="TVMu.id@SD" tvg-name="tvMU" group-title="Religion" ch-number="30" tvg-logo="https://www.visionplus.id/images/repository/603/603-LOGO-m.png",tvMu HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
