@@ -981,7 +981,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/b1d58fabf2764d52aa1e130f4a45d2af/ind
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=150
 https://d3bay3f4zdxn24.cloudfront.net/out/v1/451249e7e3004f5aba228da284c2a649/index.mpd
 
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" tvg-name="EURONEWS" group-title="News" ch-number="151" tvg-logo="https://www.visionplus.id/images/repository/675/675-LOGO-m.png",Euronews
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" tvg-name="EURONEWS" group-title="News" ch-number="151" tvg-logo="https://www.visionplus.id/images/repository/675/675-LOGO-m.png",Euronews HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
