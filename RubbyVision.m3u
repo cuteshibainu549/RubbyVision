@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz" billed-msg="RubbyVision" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
+#EXTM3U url-tvg="https://github.com/bmeidch/bemu/raw/refs/heads/main/epg/files/id-vplus.xml.gz" billed-msg="RubbyVision" $BorpasFileFormat="1" $NestedGroupsSeparator="/" refresh="720"
 
 
 ##########################RubbyVision##########################
