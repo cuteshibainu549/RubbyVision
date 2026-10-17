@@ -1270,7 +1270,7 @@ https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=1015&type=drm&token=apistech
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=1015
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/eb98aca0a1be41f7b9c05dac051a250e/index.mpd
 
 #EXTINF:-1 tvg-id="00000000000000001016" tvg-name="V+ LIVE 7" group-title="Sports" ch-number="1016" tvg-logo="https://www.visionplus.id/images/repository/671/549671-LOGO-m.png",V+ LIVE 7 HD
