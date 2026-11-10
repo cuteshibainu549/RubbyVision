@@ -599,7 +599,7 @@ https://proxy-v.rctiplus.id/live/web/lifetime/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" tvg-name="CCTV4" group-title="Entertainment" ch-number="67" tvg-logo="https://pic.dens.tv/tv_183x174/Dens_Food_Channel_(Trial)_1.jpg",CCTV 4
+#EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" tvg-name="CCTV4" group-title="Entertainment" ch-number="67" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cctv4.png",CCTV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-origin=https://www.dens.tv
