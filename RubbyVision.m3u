@@ -829,13 +829,11 @@ https://d3j13axdkrh9nh.cloudfront.net/outdoor/index.m3u8
 
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-name="CGTN Documentary" group-title="Knowledge" ch-number="95" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cgtndocumentary.png",CGTN Documentary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://www.cubmu.com/
-#EXTVLCOPT:http-origin=https://www.cubmu.com
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-origin=https://www.visionplus.id
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktidc01.transvision.co.id/epyc-tx01/dash/Q0dUTiBEb2N1bWVudGFyeQ/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://d3j13axdkrh9nh.cloudfront.net/cgtndoc/index.m3u8
 
 #EXTINF:-1 tvg-id="HistoryAsia.us@SD" tvg-name="History" group-title="Knowledge" ch-number="96" tvg-logo="https://images.indihometv.com/images/channels/image_ch_history.png",History HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
