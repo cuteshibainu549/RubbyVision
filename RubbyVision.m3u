@@ -551,7 +551,15 @@ https://bintangstreaming.my.id/000/vip.php/.m3u8?id=22337&type=hls
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/idx/index.m3u8
 
-#EXTINF:-1 tvg-id="nsert.id@SD" tvg-name="!nsert" group-title="Entertainment" ch-number="61" tvg-logo="https://images.indihometv.com/images/channels/image_ch_insert.png",Insert HD
+#EXTINF:-1 tvg-id="ChannelJowo.id@SD" tvg-name="Channel Jowo" group-title="Entertainment" ch-number="61" tvg-logo="https://pic.dens.tv/tv_183x174/Channel_Jowo_1.jpg",Channel Jowo HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://op-flashcon-digdayasd-1.dens.tv/h/h215/stream.m3u8
+
+#EXTINF:-1 tvg-id="nsert.id@SD" tvg-name="!nsert" group-title="Entertainment" ch-number="62" tvg-logo="https://images.indihometv.com/images/channels/image_ch_insert.png",Insert HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://www.cubmu.com/
 #EXTVLCOPT:http-origin=https://www.cubmu.com
@@ -561,7 +569,7 @@ https://d3j13axdkrh9nh.cloudfront.net/idx/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktbpid26.cubmu.com/epyctx01-aaf7e583a80211de0b2b2f9dcbed0bf9/dash/330-aW5zZXJ0LWNoLXNjdGUzNQ/live.mpd
 
-#EXTINF:-1 tvg-id="DuniaLain.id@SD" tvg-name="Dunia Lain" group-title="Entertainment" ch-number="62" tvg-logo="https://images.indihometv.com/images/channels/image_ch_dunialain.png",Dunia Lain HD
+#EXTINF:-1 tvg-id="DuniaLain.id@SD" tvg-name="Dunia Lain" group-title="Entertainment" ch-number="63" tvg-logo="https://images.indihometv.com/images/channels/image_ch_dunialain.png",Dunia Lain HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://www.cubmu.com/
 #EXTVLCOPT:http-origin=https://www.cubmu.com
@@ -571,7 +579,7 @@ https://cdnjktbpid26.cubmu.com/epyctx01-aaf7e583a80211de0b2b2f9dcbed0bf9/dash/33
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktbpid26.cubmu.com/epyctx01-aaf7e583a80211de0b2b2f9dcbed0bf9/dash/230-Ymlvc2tvcC1pbmRvbmVzaWEtc2N0ZTM1/bioskop-indonesia/live.mpd
 
-#EXTINF:-1 tvg-id="HITSNOW.sg@SD" tvg-name="HITS Now" group-title="Entertainment" ch-number="63" tvg-logo="https://images.indihometv.com/images/channels/image_ch_hitsnow.png",HITS Now HD
+#EXTINF:-1 tvg-id="HITSNOW.sg@SD" tvg-name="HITS Now" group-title="Entertainment" ch-number="64" tvg-logo="https://images.indihometv.com/images/channels/image_ch_hitsnow.png",HITS Now HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -579,7 +587,7 @@ https://cdnjktbpid26.cubmu.com/epyctx01-aaf7e583a80211de0b2b2f9dcbed0bf9/dash/23
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/hitsnow/index.m3u8
 
-#EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" tvg-name="AXN" group-title="Entertainment" ch-number="64" tvg-logo="https://images.indihometv.com/images/channels/image_ch_axn.png",AXN HD
+#EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" tvg-name="AXN" group-title="Entertainment" ch-number="65" tvg-logo="https://images.indihometv.com/images/channels/image_ch_axn.png",AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -587,7 +595,7 @@ https://d3j13axdkrh9nh.cloudfront.net/hitsnow/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/axn/index.m3u8
 
-#EXTINF:-1 tvg-id="AnimaxAsia.sg@SD" tvg-name="Animax" group-title="Entertainment" ch-number="65" tvg-logo="https://images.indihometv.com/images/channels/image_ch_animax.png",Animax HD
+#EXTINF:-1 tvg-id="AnimaxAsia.sg@SD" tvg-name="Animax" group-title="Entertainment" ch-number="66" tvg-logo="https://images.indihometv.com/images/channels/image_ch_animax.png",Animax HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -595,7 +603,7 @@ https://d3j13axdkrh9nh.cloudfront.net/axn/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/animax/index.m3u8
 
-#EXTINF:-1 tvg-id="HITS.sg@SD" tvg-name="Hits" group-title="Entertainment" ch-number="66" tvg-logo="https://images.indihometv.com/images/channels/image_ch_hits.png",HITS HD
+#EXTINF:-1 tvg-id="HITS.sg@SD" tvg-name="Hits" group-title="Entertainment" ch-number="67" tvg-logo="https://images.indihometv.com/images/channels/image_ch_hits.png",HITS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -603,7 +611,7 @@ https://d3j13axdkrh9nh.cloudfront.net/animax/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/hits/index.m3u8
 
-#EXTINF:-1 tvg-id="KIX.hk@SD" tvg-name="Kix" group-title="Entertainment" ch-number="67" tvg-logo="https://images.indihometv.com/images/channels/image_ch_kix.png",KIX HD
+#EXTINF:-1 tvg-id="KIX.hk@SD" tvg-name="Kix" group-title="Entertainment" ch-number="68" tvg-logo="https://images.indihometv.com/images/channels/image_ch_kix.png",KIX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -611,7 +619,7 @@ https://d3j13axdkrh9nh.cloudfront.net/hits/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/kix/index.m3u8
 
-#EXTINF:-1 tvg-id="LifetimeAsia.us@SD" tvg-name="Lifetime" group-title="Entertainment" ch-number="68" tvg-logo="https://images.indihometv.com/images/channels/image_ch_lifetime.png",Lifetime
+#EXTINF:-1 tvg-id="LifetimeAsia.us@SD" tvg-name="Lifetime" group-title="Entertainment" ch-number="69" tvg-logo="https://images.indihometv.com/images/channels/image_ch_lifetime.png",Lifetime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -619,7 +627,7 @@ https://d3j13axdkrh9nh.cloudfront.net/kix/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/lifetime/index.m3u8
 
-#EXTINF:-1 tvg-id="ROCKEntertainment.sg@SD" tvg-name="Rock Entertainment" group-title="Entertainment" ch-number="69" tvg-logo="https://images.indihometv.com/images/channels/image_ch_rockent.png",Rock Entertainment HD
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg@SD" tvg-name="Rock Entertainment" group-title="Entertainment" ch-number="70" tvg-logo="https://images.indihometv.com/images/channels/image_ch_rockent.png",Rock Entertainment HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -627,7 +635,7 @@ https://d3j13axdkrh9nh.cloudfront.net/lifetime/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/rockent/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" tvg-name="CCTV4" group-title="Entertainment" ch-number="70" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cctv4.png",CCTV 4
+#EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" tvg-name="CCTV4" group-title="Entertainment" ch-number="71" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cctv4.png",CCTV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-origin=https://www.dens.tv
@@ -635,7 +643,23 @@ https://d3j13axdkrh9nh.cloudfront.net/rockent/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://op-group1-densxvisionhd-1.dens.tv/h/h22/index.m3u8
 
-#EXTINF:-1 tvg-id="CBeebies.uk@SD" tvg-name="Cbeebies" group-title="Kids" ch-number="71" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CBeebies_2025_12_03_10_31_32.jpg",CBeebies
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk@SD" tvg-name="Phoenix Info News" group-title="Entertainment" ch-number="72" tvg-logo="https://images.indihometv.com/images/channels/image_ch_phoenixinfonews.png",Phoenix InfoNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://op-group1-densxvisionhd-1.dens.tv/s/s23/index.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk@SD" tvg-name="Phoenix Chinese" group-title="Entertainment" ch-number="73" tvg-logo="https://images.indihometv.com/images/channels/image_ch_phoenixch.png",Phoenix Chinese
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://op-group1-densxvisionhd-1.dens.tv/h/h07/index.m3u8
+
+#EXTINF:-1 tvg-id="CBeebies.uk@SD" tvg-name="Cbeebies" group-title="Kids" ch-number="74" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CBeebies_2025_12_03_10_31_32.jpg",CBeebies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -643,7 +667,7 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h22/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/cbeebies/index.m3u8
 
-#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-name="Zoo Moo" group-title="Kids" ch-number="72" tvg-logo="https://thumbor.prod.vidiocdn.com/vQdbJZqHtzPPXckjO0Hy8yy-3_0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6533/f6c9c0.png",ZooMoo HD
+#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-name="Zoo Moo" group-title="Kids" ch-number="75" tvg-logo="https://thumbor.prod.vidiocdn.com/vQdbJZqHtzPPXckjO0Hy8yy-3_0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6533/f6c9c0.png",ZooMoo HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -651,7 +675,7 @@ https://d3j13axdkrh9nh.cloudfront.net/cbeebies/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/zoomoo/index.m3u8
 
-#EXTINF:-1 tvg-id="NickJrAsia.sg@SD" tvg-name="Nick Jr" group-title="Kids" ch-number="73" tvg-logo="https://images.indihometv.com/images/channels/image_ch_nickjr.png",Nick Jr. HD
+#EXTINF:-1 tvg-id="NickJrAsia.sg@SD" tvg-name="Nick Jr" group-title="Kids" ch-number="76" tvg-logo="https://images.indihometv.com/images/channels/image_ch_nickjr.png",Nick Jr. HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -659,7 +683,7 @@ https://d3j13axdkrh9nh.cloudfront.net/zoomoo/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/nickjr/index.m3u8
 
-#EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" tvg-name="Nickelodeon" group-title="Kids" ch-number="74" tvg-logo="https://images.indihometv.com/images/channels/image_ch_nick.png",Nickelodeon HD
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" tvg-name="Nickelodeon" group-title="Kids" ch-number="77" tvg-logo="https://images.indihometv.com/images/channels/image_ch_nick.png",Nickelodeon HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -667,7 +691,7 @@ https://d3j13axdkrh9nh.cloudfront.net/nickjr/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 
-#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD" tvg-name="Dream Works" group-title="Kids" ch-number="75" tvg-logo="https://images.indihometv.com/images/channels/image_ch_dreamworks.png",DreamWorks HD
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD" tvg-name="Dream Works" group-title="Kids" ch-number="78" tvg-logo="https://images.indihometv.com/images/channels/image_ch_dreamworks.png",DreamWorks HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -675,7 +699,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/dreamworks/index.m3u8
 
-#EXTINF:-1 tvg-id="MoonbugKids.uk@SD" tvg-name="Moonbug" group-title="Kids" ch-number="76" tvg-logo="https://images.indihometv.com/images/channels/image_ch_moonbug%20kids.png",Moonbug HD
+#EXTINF:-1 tvg-id="MoonbugKids.uk@SD" tvg-name="Moonbug" group-title="Kids" ch-number="79" tvg-logo="https://images.indihometv.com/images/channels/image_ch_moonbug%20kids.png",Moonbug HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -683,7 +707,7 @@ https://d3j13axdkrh9nh.cloudfront.net/dreamworks/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/moonbug/index.m3u8
 
-#EXTINF:-1 tvg-id="Thrill.hk@SD" tvg-name="Thrill" group-title="Movies" ch-number="77" tvg-logo="https://images.indihometv.com/images/channels/image_ch_thrill.png",Thrill
+#EXTINF:-1 tvg-id="Thrill.hk@SD" tvg-name="Thrill" group-title="Movies" ch-number="80" tvg-logo="https://images.indihometv.com/images/channels/image_ch_thrill.png",Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -691,7 +715,7 @@ https://d3j13axdkrh9nh.cloudfront.net/moonbug/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/thrill/index.m3u8
 
-#EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id@SD" tvg-name="Celestial Movies" group-title="Movies" ch-number="78" tvg-logo="https://images.indihometv.com/images/channels/image_ch_celestialmovies.png",Celestial Movies
+#EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id@SD" tvg-name="Celestial Movies" group-title="Movies" ch-number="81" tvg-logo="https://images.indihometv.com/images/channels/image_ch_celestialmovies.png",Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -699,7 +723,7 @@ https://d3j13axdkrh9nh.cloudfront.net/thrill/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/celestialmovies/index.m3u8
 
-#EXTINF:-1 tvg-id="Galaxy.id@SD" tvg-name="GALAXY" group-title="Movies" ch-number="79" tvg-logo="https://images.indihometv.com/images/channels/image_ch_galaxy.png",Galaxy HD
+#EXTINF:-1 tvg-id="Galaxy.id@SD" tvg-name="GALAXY" group-title="Movies" ch-number="82" tvg-logo="https://images.indihometv.com/images/channels/image_ch_galaxy.png",Galaxy HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -707,7 +731,7 @@ https://d3j13axdkrh9nh.cloudfront.net/celestialmovies/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/galaxy/index.m3u8
 
-#EXTINF:-1 tvg-id="GalaxyPremium.id@SD" tvg-name="GALAXY PREMIUM" group-title="Movies" ch-number="80" tvg-logo="https://images.indihometv.com/images/channels/image_ch_galaxypremium.png",Galaxy Premium HD
+#EXTINF:-1 tvg-id="GalaxyPremium.id@SD" tvg-name="GALAXY PREMIUM" group-title="Movies" ch-number="83" tvg-logo="https://images.indihometv.com/images/channels/image_ch_galaxypremium.png",Galaxy Premium HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -715,7 +739,7 @@ https://d3j13axdkrh9nh.cloudfront.net/galaxy/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/galaxyprem/index.m3u8
 
-#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-name="Studio Universal" group-title="Movies" ch-number="81" tvg-logo="https://images.indihometv.com/images/channels/image_ch_studiouniversal.png",Studio Universal HD
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-name="Studio Universal" group-title="Movies" ch-number="84" tvg-logo="https://images.indihometv.com/images/channels/image_ch_studiouniversal.png",Studio Universal HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -723,7 +747,7 @@ https://d3j13axdkrh9nh.cloudfront.net/galaxyprem/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/universal/index.m3u8
 
-#EXTINF:-1 tvg-id="tvNMoviesAsia.hk@SD" tvg-name="TVN Movies" group-title="Movies" ch-number="82" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvnmovies.png",tvN Movies HD
+#EXTINF:-1 tvg-id="tvNMoviesAsia.hk@SD" tvg-name="TVN Movies" group-title="Movies" ch-number="85" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvnmovies.png",tvN Movies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -731,7 +755,7 @@ https://d3j13axdkrh9nh.cloudfront.net/universal/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/tvnmovies/index.m3u8
 
-#EXTINF:-1 tvg-id="HITSMovies.sg@SD" tvg-name="Hits Movies" group-title="Movies" ch-number="83" tvg-logo="https://images.indihometv.com/images/channels/image_ch_hitsmovies.png",HITS Movies HD
+#EXTINF:-1 tvg-id="HITSMovies.sg@SD" tvg-name="Hits Movies" group-title="Movies" ch-number="86" tvg-logo="https://images.indihometv.com/images/channels/image_ch_hitsmovies.png",HITS Movies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -739,7 +763,7 @@ https://d3j13axdkrh9nh.cloudfront.net/tvnmovies/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/hitsmovies/index.m3u8
 
-#EXTINF:-1 tvg-id="ZeeBioskop.id@SD" tvg-name="Zee Bioskop" group-title="Movies" ch-number="84" tvg-logo="https://images.indihometv.com/images/channels/image_ch_zeebioskop.png",Zee Bioskop
+#EXTINF:-1 tvg-id="ZeeBioskop.id@SD" tvg-name="Zee Bioskop" group-title="Movies" ch-number="87" tvg-logo="https://images.indihometv.com/images/channels/image_ch_zeebioskop.png",Zee Bioskop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -747,7 +771,7 @@ https://d3j13axdkrh9nh.cloudfront.net/hitsmovies/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/zeebioskop/index.m3u8
 
-#EXTINF:-1 tvg-id="ROCKAction.sg@SD" tvg-name="Rock Action" group-title="Movies" ch-number="85" tvg-logo="https://thumbor.prod.vidiocdn.com/KNwURMx7JBhbW7yXRRo9_SQUvHM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8121/e9e2b9.png",Rock Action HD
+#EXTINF:-1 tvg-id="ROCKAction.sg@SD" tvg-name="Rock Action" group-title="Movies" ch-number="88" tvg-logo="https://thumbor.prod.vidiocdn.com/KNwURMx7JBhbW7yXRRo9_SQUvHM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8121/e9e2b9.png",Rock Action HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -755,7 +779,7 @@ https://d3j13axdkrh9nh.cloudfront.net/zeebioskop/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/rockaction/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSports1.qa@Indonesia" tvg-name="beIN SPORTS" group-title="Sports" ch-number="86" tvg-logo="https://thumbor.prod.vidiocdn.com/R5o3HOzN4coNEldIuKjnpawojr4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/d74f54.png",beIN Sports 1 HD
+#EXTINF:-1 tvg-id="beINSports1.qa@Indonesia" tvg-name="beIN SPORTS" group-title="Sports" ch-number="89" tvg-logo="https://thumbor.prod.vidiocdn.com/R5o3HOzN4coNEldIuKjnpawojr4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/d74f54.png",beIN Sports 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -763,7 +787,7 @@ https://d3j13axdkrh9nh.cloudfront.net/rockaction/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/bein1/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSports2.qa@MENA" tvg-name="beIN SPORTS 2" group-title="Sports" ch-number="87" tvg-logo="https://thumbor.prod.vidiocdn.com/HsxPbK2T6gPnpmNmiL4KEApfzz0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17875/afb4ca.png",beIN Sports 2 HD
+#EXTINF:-1 tvg-id="beINSports2.qa@MENA" tvg-name="beIN SPORTS 2" group-title="Sports" ch-number="90" tvg-logo="https://thumbor.prod.vidiocdn.com/HsxPbK2T6gPnpmNmiL4KEApfzz0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17875/afb4ca.png",beIN Sports 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -771,7 +795,7 @@ https://d3j13axdkrh9nh.cloudfront.net/bein1/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/bein2/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSports3.qa@Indonesia" tvg-name="beIN SPORTS 3" group-title="Sports" ch-number="88" tvg-logo="https://thumbor.prod.vidiocdn.com/lKgFAcljoRcYILYnMzYh8dt7Ixw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6317/4a8762.png",beIN Sports 3 HD
+#EXTINF:-1 tvg-id="beINSports3.qa@Indonesia" tvg-name="beIN SPORTS 3" group-title="Sports" ch-number="91" tvg-logo="https://thumbor.prod.vidiocdn.com/lKgFAcljoRcYILYnMzYh8dt7Ixw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6317/4a8762.png",beIN Sports 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -779,7 +803,7 @@ https://d3j13axdkrh9nh.cloudfront.net/bein2/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/bein3/index.m3u8
 
-#EXTINF:-1 tvg-id="FightSports.us@SD" tvg-name="Fight Sports" group-title="Sports" ch-number="89" tvg-logo="https://images.indihometv.com/images/channels/image_ch_fightsport.png",Fight Sports HD
+#EXTINF:-1 tvg-id="FightSports.us@SD" tvg-name="Fight Sports" group-title="Sports" ch-number="92" tvg-logo="https://images.indihometv.com/images/channels/image_ch_fightsport.png",Fight Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -787,7 +811,7 @@ https://d3j13axdkrh9nh.cloudfront.net/bein3/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/fightsports/index.m3u8
 
-#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg@SD" tvg-name="Crime Investigation" group-title="Knowledge" ch-number="90" tvg-logo="https://images.indihometv.com/images/channels/image_ch_crime+investigation.png",Crime Investigation
+#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg@SD" tvg-name="Crime Investigation" group-title="Knowledge" ch-number="93" tvg-logo="https://images.indihometv.com/images/channels/image_ch_crime+investigation.png",Crime Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -795,7 +819,7 @@ https://d3j13axdkrh9nh.cloudfront.net/fightsports/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/crimeinvest/index.m3u8
 
-#EXTINF:-1 tvg-id="OutdoorChannel.us@SD" tvg-name="Outdoor Channel" group-title="Knowledge" ch-number="91" tvg-logo="https://images.indihometv.com/logo_outdoor_small.png",Outdoor Channel HD
+#EXTINF:-1 tvg-id="OutdoorChannel.us@SD" tvg-name="Outdoor Channel" group-title="Knowledge" ch-number="94" tvg-logo="https://images.indihometv.com/logo_outdoor_small.png",Outdoor Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -803,7 +827,7 @@ https://d3j13axdkrh9nh.cloudfront.net/crimeinvest/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/outdoor/index.m3u8
 
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-name="CGTN Documentary" group-title="Knowledge" ch-number="92" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cgtndocumentary.png",CGTN Documentary
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-name="CGTN Documentary" group-title="Knowledge" ch-number="95" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cgtndocumentary.png",CGTN Documentary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://www.cubmu.com/
 #EXTVLCOPT:http-origin=https://www.cubmu.com
@@ -813,7 +837,7 @@ https://d3j13axdkrh9nh.cloudfront.net/outdoor/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktidc01.transvision.co.id/epyc-tx01/dash/Q0dUTiBEb2N1bWVudGFyeQ/manifest.mpd
 
-#EXTINF:-1 tvg-id="HistoryAsia.us@SD" tvg-name="History" group-title="Knowledge" ch-number="93" tvg-logo="https://images.indihometv.com/images/channels/image_ch_history.png",History HD
+#EXTINF:-1 tvg-id="HistoryAsia.us@SD" tvg-name="History" group-title="Knowledge" ch-number="96" tvg-logo="https://images.indihometv.com/images/channels/image_ch_history.png",History HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -821,7 +845,7 @@ https://cdnjktidc01.transvision.co.id/epyc-tx01/dash/Q0dUTiBEb2N1bWVudGFyeQ/mani
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/history/index.m3u8
 
-#EXTINF:-1 tvg-id="LoveNature.ca@SD" tvg-name="Love Nature" group-title="Knowledge" ch-number="94" tvg-logo="https://images.indihometv.com/images/channels/image_ch_lovenature.png",Love Nature HD
+#EXTINF:-1 tvg-id="LoveNature.ca@SD" tvg-name="Love Nature" group-title="Knowledge" ch-number="97" tvg-logo="https://images.indihometv.com/images/channels/image_ch_lovenature.png",Love Nature HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -829,7 +853,7 @@ https://d3j13axdkrh9nh.cloudfront.net/history/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3j13axdkrh9nh.cloudfront.net/lovenature/index.m3u8
 
-#EXTINF:-1 tvg-id="EatNGo.id@SD" tvg-name="Eat N Go" group-title="Lifestyle" ch-number="95" tvg-logo="https://images.indihometv.com/images/channels/image_ch_eat&go.png",Eat & Go HD
+#EXTINF:-1 tvg-id="EatNGo.id@SD" tvg-name="Eat N Go" group-title="Lifestyle" ch-number="98" tvg-logo="https://images.indihometv.com/images/channels/image_ch_eat&go.png",Eat & Go HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://www.cubmu.com/
 #EXTVLCOPT:http-origin=https://www.cubmu.com
@@ -839,7 +863,7 @@ https://d3j13axdkrh9nh.cloudfront.net/lovenature/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktbpid26.cubmu.com/epyctx01-aaf7e583a80211de0b2b2f9dcbed0bf9/dash/208-ZWF0bmdvLXNjdGUzNQ/eat-go/live.mpd
 
-#EXTINF:-1 tvg-id="DensFoodChannel.id@SD" tvg-name="DensFood Channel" group-title="Lifestyle" ch-number="96" tvg-logo="https://pic.dens.tv/tv_183x174/Dens_Food_Channel_(Trial)_1.jpg",Dens Food Channel HD
+#EXTINF:-1 tvg-id="DensFoodChannel.id@SD" tvg-name="DensFood Channel" group-title="Lifestyle" ch-number="99" tvg-logo="https://pic.dens.tv/tv_183x174/Dens_Food_Channel_(Trial)_1.jpg",Dens Food Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-origin=https://www.dens.tv
@@ -847,7 +871,7 @@ https://cdnjktbpid26.cubmu.com/epyctx01-aaf7e583a80211de0b2b2f9dcbed0bf9/dash/20
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://op-group1-densxvisionhd-1.dens.tv/h/h248/index.m3u8
 
-#EXTINF:-1 tvg-id="DensPlay.id@SD" tvg-name="DensPlay" group-title="Lifestyle" ch-number="97" tvg-logo="https://pic.dens.tv/tv_183x174/1568359881_square.jpg",Dens Play HD
+#EXTINF:-1 tvg-id="DensPlay.id@SD" tvg-name="DensPlay" group-title="Lifestyle" ch-number="100" tvg-logo="https://pic.dens.tv/tv_183x174/1568359881_square.jpg",Dens Play HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-origin=https://www.dens.tv
@@ -855,7 +879,7 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h248/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://op-group1-densxvisionhd-1.dens.tv/h/h225/index.m3u8
 
-#EXTINF:-1 tvg-id="DensShowBiz.id@SD" tvg-name="DensShowBiz" group-title="Lifestyle" ch-number="98" tvg-logo="https://pic.dens.tv/tv_183x174/1591343514_square.jpg",Dens ShowBiz HD
+#EXTINF:-1 tvg-id="DensShowBiz.id@SD" tvg-name="DensShowBiz" group-title="Lifestyle" ch-number="101" tvg-logo="https://pic.dens.tv/tv_183x174/1591343514_square.jpg",Dens ShowBiz HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-origin=https://www.dens.tv
