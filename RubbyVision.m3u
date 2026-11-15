@@ -41,16 +41,16 @@ https://d3j13axdkrh9nh.cloudfront.net/sindonews/index.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id@SD" tvg-name="TransTV" group-title="National TV" ch-number="6" tvg-logo="https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png",Trans TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
-#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-referer=https://video.detik.com/
+#EXTVLCOPT:http-origin=https://video.detik.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id@SD" tvg-name="Trans7" group-title="National TV" ch-number="7" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png",Trans 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
-#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-referer=https://video.detik.com/
+#EXTVLCOPT:http-origin=https://video.detik.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
@@ -325,16 +325,16 @@ https://bintangstreaming.my.id/000/vip.php/.m3u8?id=7230&type=hls
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id@SD" tvg-name="CNN Indonesia" group-title="News" ch-number="36" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnnindonesia.png",CNN Indonesia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
-#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-referer=https://video.detik.com/
+#EXTVLCOPT:http-origin=https://video.detik.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video.detik.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNBCIndonesia.id@SD" tvg-name="CNBC Indonesia" group-title="News" ch-number="37" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnbcindonesia.png",CNBC Indonesia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
-#EXTVLCOPT:http-origin=https://20.detik.com
+#EXTVLCOPT:http-referer=https://video.detik.com/
+#EXTVLCOPT:http-origin=https://video.detik.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video.detik.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
