@@ -495,7 +495,7 @@ https://proxy-v.rctiplus.id/live/web/bloomberg/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://proxy-v.rctiplus.id/live/web/france24/index.m3u8
 
-#EXTINF:-1 tvg-id="IDXChannel.id@SD" tvg-name="IDX Channel" group-title="News" ch-number="63" tvg-logo="https://images.indihometv.com/images/channels/image_ch_idx.png",IDX Channel HD
+#EXTINF:-1 tvg-id="IDXChannel.id@SD" tvg-name="IDX Channel" group-title="News" ch-number="63" tvg-logo="https://images.indihometv.com/images/channels/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg",IDX Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
