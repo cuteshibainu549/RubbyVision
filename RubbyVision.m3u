@@ -58,8 +58,6 @@ https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
 https://vidio123.mikrofast.web.id/vidio/204/index.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id@SD" tvg-name="Indosiar" group-title="National TV" ch-number="9" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png",Indosiar HD
@@ -68,8 +66,6 @@ https://vidio123.mikrofast.web.id/vidio/204/index.mpd
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
 https://vidio123.mikrofast.web.id/vidio/205/index.mpd
 
 #EXTINF:-1 tvg-id="Moji.id@SD" tvg-name="Moji" group-title="National TV" ch-number="10" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png",MOJI HD
@@ -78,8 +74,6 @@ https://vidio123.mikrofast.web.id/vidio/205/index.mpd
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=206&type=drm
 https://vidio123.mikrofast.web.id/vidio/206/index.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id@SD" tvg-name="ANTV" group-title="National TV" ch-number="11" tvg-logo="https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png",ANTV HD
@@ -88,8 +82,6 @@ https://vidio123.mikrofast.web.id/vidio/206/index.mpd
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=drm
 https://vidio123.mikrofast.web.id/vidio/782/index.mpd
 
 #EXTINF:-1 tvg-id="RajawaliTV.id@SD" tvg-name="RTV" group-title="National TV" ch-number="12" tvg-logo="https://thumbor.prod.vidiocdn.com/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png",RTV HD
@@ -98,8 +90,6 @@ https://vidio123.mikrofast.web.id/vidio/782/index.mpd
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=drm
 https://vidio123.mikrofast.web.id/vidio/1561/index.mpd
 
 #EXTINF:-1 tvg-id="tvOne.id@SD" tvg-name="TVOne" group-title="National TV" ch-number="13" tvg-logo="https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png",tvOne HD
@@ -108,8 +98,6 @@ https://vidio123.mikrofast.web.id/vidio/1561/index.mpd
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=drm
 https://vidio123.mikrofast.web.id/vidio/783/index.mpd
 
 #EXTINF:-1 tvg-id="KompasTV.id@SD" tvg-name="Kompas TV" group-title="National TV" ch-number="14" tvg-logo="https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png",Kompas TV HD
@@ -126,8 +114,6 @@ https://op-group1-densxvisionhd-1.dens.tv/s/s104/index.m3u8
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=drm
 https://vidio123.mikrofast.web.id/vidio/777/index.mpd
 
 #EXTINF:-1 tvg-id="BTV.id@SD" tvg-name="BTV" group-title="National TV" ch-number="16" tvg-logo="https://thumbor.prod.vidiocdn.com/MDo4Nw4gKVm-8FLS2uBE7VrBrVg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/7cd920.png",BTV HD
@@ -136,8 +122,6 @@ https://vidio123.mikrofast.web.id/vidio/777/index.mpd
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6165&type=drm
 https://vidio123.mikrofast.web.id/vidio/6165/index.mpd
 
 #EXTINF:-1 tvg-id="TVRI.id@SD" tvg-name="TVRI" group-title="National TV" ch-number="17" tvg-logo="https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png",TVRI
@@ -146,8 +130,6 @@ https://vidio123.mikrofast.web.id/vidio/6165/index.mpd
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6441&type=drm
 https://vidio123.mikrofast.web.id/vidio/6441/index.mpd
 
 #EXTINF:-1 tvg-id="SinPoTV.id@HD" tvg-name="Sin Po TV" group-title="News" ch-number="18" tvg-logo="https://thumbor.prod.vidiocdn.com/j6L0yLX8CtZTUnIO5aMzs0tNkvI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/19046/aaa3fa.png",Sin Po TV HD
@@ -156,8 +138,6 @@ https://vidio123.mikrofast.web.id/vidio/6441/index.mpd
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=drm
 https://vidio123.mikrofast.web.id/vidio/19046/index.mpd
 
 #EXTINF:-1 tvg-id="DAAITV.id@SD" tvg-name="DAAI TV" group-title="National TV" ch-number="19" tvg-logo="https://thumbor.prod.vidiocdn.com/0r_rhIVANc6dsGvQ76616ZSqF04=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png",DAAI TV HD
@@ -166,8 +146,6 @@ https://vidio123.mikrofast.web.id/vidio/19046/index.mpd
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6482&type=drm
 https://vidio123.mikrofast.web.id/vidio/6482/index.mpd
 
 #EXTINF:-1 tvg-id="BeritaSatu.id@SD" tvg-name="Berita Satu" group-title="News" ch-number="20" tvg-logo="https://thumbor.prod.vidiocdn.com/cSyueV9bIgkdLkvVWqIZOlR6TFQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18280/c7fc8f.png",Berita Satu HD
@@ -176,8 +154,6 @@ https://vidio123.mikrofast.web.id/vidio/6482/index.mpd
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=18280&type=drm
 https://vidio123.mikrofast.web.id/vidio/18280/index.mpd
 
 #EXTINF:-1 tvg-id="NusantaraTV.id@SD" tvg-name="Nusantara TV" group-title="National TV" ch-number="21" tvg-logo="https://thumbor.prod.vidiocdn.com/npPL9VlWMJ5owmeupR7ucPjdGl4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png",Nusantara TV HD
@@ -186,8 +162,6 @@ https://vidio123.mikrofast.web.id/vidio/18280/index.mpd
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=7432&type=drm
 https://vidio123.mikrofast.web.id/vidio/7432/index.mpd
 
 #EXTINF:-1 tvg-id="MDTV.id@HD" tvg-name="MDTV" group-title="National TV" ch-number="22" tvg-logo="https://thumbor.prod.vidiocdn.com/LCZH_yEBnTYEQzrU1pB7w7ev-Bw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/325605.png",MDTV HD
@@ -196,8 +170,6 @@ https://vidio123.mikrofast.web.id/vidio/7432/index.mpd
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=875&type=drm
 https://vidio123.mikrofast.web.id/vidio/875/index.mpd
 
 #EXTINF:-1 tvg-id="JakTV.id@SD" tvg-name="JakTV" group-title="National TV" ch-number="23" tvg-logo="https://thumbor.prod.vidiocdn.com/lJ0VbXBqgieZcVnLJ-Beck84Idk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5415/802b76.png",JAKTV HD
@@ -206,8 +178,6 @@ https://vidio123.mikrofast.web.id/vidio/875/index.mpd
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=5415&type=drm
 https://vidio123.mikrofast.web.id/vidio/5415/index.mpd
 
 #EXTINF:-1 tvg-id="BaliTV.id@SD" tvg-name="Bali TV" group-title="National TV" ch-number="24" tvg-logo="https://images.indihometv.com/images/channels/image_ch_balitv.png",Bali TV
@@ -232,8 +202,6 @@ https://proxy-v.rctiplus.id/live/web/tv9/index.m3u8
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=12607&type=drm
 https://vidio123.mikrofast.web.id/vidio/12607/index.mpd
 
 #EXTINF:-1 tvg-id="TVMu.id@SD" tvg-name="tvMU" group-title="Religion" ch-number="27" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvmu.png",tvMu
@@ -258,8 +226,6 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h233/index.m3u8
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=18162&type=drm
 https://vidio123.mikrofast.web.id/vidio/18162/index.mpd
 
 #EXTINF:-1 tvg-id="JawaPosTV.id@SD" tvg-name="jawaposTV" group-title="National TV" ch-number="30" tvg-logo="https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg",Jawa Pos TV HD
@@ -268,8 +234,6 @@ https://vidio123.mikrofast.web.id/vidio/18162/index.mpd
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9714&type=drm
 https://vidio123.mikrofast.web.id/vidio/9714/index.mpd
 
 #EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-name="TVRI World" group-title="News" ch-number="31" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg",TVRI World HD
@@ -286,8 +250,6 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h249/index.m3u8
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=10975&type=drm
 https://vidio123.mikrofast.web.id/vidio/10975/index.mpd
 
 #EXTINF:-1 tvg-id="UChannel.id@SD" tvg-name="U Channel" group-title="Religion" ch-number="33" tvg-logo="https://thumbor.prod.vidiocdn.com/yw_pUKLmZyf5rwqDqh-FvU2llv8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6898/7e119a.png",U-Channel HD
@@ -296,8 +258,6 @@ https://vidio123.mikrofast.web.id/vidio/10975/index.mpd
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6898&type=drm
 https://vidio123.mikrofast.web.id/vidio/6898/index.mpd
 
 #EXTINF:-1 tvg-id="JTV.id@SD" tvg-name="JTV" group-title="National TV" ch-number="34" tvg-logo="https://thumbor.prod.vidiocdn.com/BtGWKOWXdR9CGmW_iZPHA_zg8lQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/1119f8.png",JTV HD
@@ -306,8 +266,6 @@ https://vidio123.mikrofast.web.id/vidio/6898/index.mpd
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9713&type=drm
 https://vidio123.mikrofast.web.id/vidio/9713/index.mpd
 
 #EXTINF:-1 tvg-id="MagnaChannel.id@SD" tvg-name="Magna Channel" group-title="Entertainment" ch-number="35" tvg-logo="https://thumbor.prod.vidiocdn.com/43T_Bt_R_JSQugV3MxoAeYze7OQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7230/7d6bf5.jpg",Magna Channel HD
@@ -340,8 +298,6 @@ https://video.detik.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=drm
 https://vidio123.mikrofast.web.id/vidio/8237/index.mpd
 
 #EXTINF:-1 tvg-id="AjwaTV.id@SD" tvg-name="AJWA TV" group-title="Religion" ch-number="39" tvg-logo="https://thumbor.prod.vidiocdn.com/GydAc8ocolWIwQ2A_1xFv0iQ3GM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/e69965.png",Ajwa TV HD
@@ -350,8 +306,6 @@ https://vidio123.mikrofast.web.id/vidio/8237/index.mpd
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=7464&type=drm
 https://vidio123.mikrofast.web.id/vidio/7464/index.mpd
 
 #EXTINF:-1 tvg-id="DaystarTV.us@SD" tvg-name="DayStar" group-title="Religion" ch-number="40" tvg-logo="https://thumbor.prod.vidiocdn.com/a_R11gFNIXuNsUiqJ6Tsj-45lqE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18622/d20ab7.png",Daystar TV
@@ -360,8 +314,6 @@ https://vidio123.mikrofast.web.id/vidio/7464/index.mpd
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=18622&type=drm
 https://vidio123.mikrofast.web.id/vidio/18622/index.mpd
 
 #EXTINF:-1 tvg-id="CNA.sg@SD" tvg-name="Channel News Asia" group-title="News" ch-number="41" tvg-logo="https://thumbor.prod.vidiocdn.com/UeT72lXpCHQ7pp5YCRA-eFlsajU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6411/49242c.png",CNA
@@ -378,8 +330,6 @@ https://proxy-v.rctiplus.id/live/web/cna/index.m3u8
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6852&type=drm
 https://vidio123.mikrofast.web.id/vidio/6852/index.mpd
 
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa@SD" tvg-name="Sunna TV" group-title="Religion" ch-number="43" tvg-logo="https://pic.dens.tv/tv_183x174/Sunnah_TV_1.png",Al Sunnah Al Nabawiyah
@@ -396,8 +346,6 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h38/index.m3u8
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=5075&type=drm
 https://vidio123.mikrofast.web.id/vidio/5075/index.mpd
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-name="NHK World Japan" group-title="News" ch-number="45" tvg-logo="https://thumbor.prod.vidiocdn.com/xeyp-d3Wx2dHs3xmmGdX-fsjOw8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7968/069757.png",NHK World Japan HD
@@ -430,8 +378,6 @@ https://proxy-v.rctiplus.id/live/web/cnbc/index.m3u8
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6410&type=drm
 https://vidio123.mikrofast.web.id/vidio/6410/index.mpd
 
 #EXTINF:-1 tvg-id="ArirangTV.kr@SD" tvg-name="Arirang" group-title="Entertainment" ch-number="49" tvg-logo="https://thumbor.prod.vidiocdn.com/oBMhyILK-ywwtqBqQyt51dmDs5o=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6784/b9cb20.png",Arirang HD
@@ -440,8 +386,6 @@ https://vidio123.mikrofast.web.id/vidio/6410/index.mpd
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6784&type=drm
 https://vidio123.mikrofast.web.id/vidio/6784/index.mpd
 
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" tvg-name="EURONEWS" group-title="News" ch-number="50" tvg-logo="https://thumbor.prod.vidiocdn.com/mv4ZFcm2QaBMgaCprNUczDIaSJ4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6412/c0e105.png",Euronews
@@ -458,8 +402,6 @@ https://proxy-v.rctiplus.id/live/web/euronews/index.m3u8
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=7150&type=drm
 https://vidio123.mikrofast.web.id/vidio/7150/index.mpd
 
 #EXTINF:-1 tvg-id="RT.ru@SD" tvg-name="RT" group-title="News" ch-number="52" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180-CL-RT_2025_10_24_15_49_57.jpg",Russia Today
@@ -524,15 +466,13 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/602/602.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://op-group1-densxvisionhd-1.dens.tv/s/s16/index.m3u8
 
-#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" tvg-name="TV5Monde" group-title="Entertainment" ch-number="60" tvg-logo="https://thumbor.prod.vidiocdn.com/fEkhJYuokMUBuhm5_lg-VO63x1s=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17278/8e6d94.png",TV5Monde HD
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" tvg-name="TV5Monde" group-title="Entertainment" ch-number="60" tvg-logo="https://thumbor.prod.vidiocdn.com/fEkhJYuokMUBuhm5_lg-VO63x1s=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17278/8e6d94.png",TV5Monde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-origin=https://www.visionplus.id
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17278&type=drm
-https://vidio123.mikrofast.web.id/vidio/17278/index.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://proxy-v.rctiplus.id/live/web/tv5/index.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-name="Bloomberg" group-title="News" ch-number="61" tvg-logo="https://thumbor.prod.vidiocdn.com/5383je3X8Fd8Z62ixQXN27SWrXY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/22252/df871e.png",Bloomberg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
