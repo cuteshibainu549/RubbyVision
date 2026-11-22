@@ -207,7 +207,7 @@ https://proxy-v.rctiplus.id/live/web/tv9/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://vidio123.mikrofast.web.id/vidio/12607/index.mpd
 
-#EXTINF:-1 tvg-id="TVMu.id@SD" tvg-name="tvMU" group-title="Religion" ch-number="27" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvmu.png",tvMu
+#EXTINF:-1 tvg-id="TVMu.id@SD" tvg-name="tvMU" group-title="Religion" ch-number="27" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvmu.png",tvMu HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -247,7 +247,7 @@ https://vidio123.mikrofast.web.id/vidio/9714/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://op-group1-densxvisionhd-1.dens.tv/h/h249/index.m3u8
 
-#EXTINF:-1 tvg-id="ElshintaTV.id@SD" tvg-name="Elshinta TV" group-title="Entertainment" ch-number="32" tvg-logo="https://thumbor.prod.vidiocdn.com/9Ai_9ibLKhC4czfgMXnw3P-uSyA=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/10975/0dc2d8.png",Elshinta TV HD
+#EXTINF:-1 tvg-id="ElshintaTV.id@SD" tvg-name="Elshinta TV" group-title="Entertainment" ch-number="32" tvg-logo="https://thumbor.prod.vidiocdn.com/9Ai_9ibLKhC4czfgMXnw3P-uSyA=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/10975/0dc2d8.png",Elshinta TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
@@ -439,7 +439,7 @@ https://proxy-v.rctiplus.id/live/web/bbcworld/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://proxy-v.rctiplus.id/live/web/trtw/index.m3u8
 
-#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-name="CGTN" group-title="News" ch-number="56" tvg-logo="https://www.visionplus.id/images/repository/860/576860-SQUARE-l.jpg",CGTN
+#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-name="CGTN" group-title="News" ch-number="56" tvg-logo="https://www.visionplus.id/images/repository/860/576860-SQUARE-l.jpg",CGTN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
