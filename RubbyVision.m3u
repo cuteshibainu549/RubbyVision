@@ -5,10 +5,9 @@
 
 #EXTINF:-1 tvg-id="RCTI.id@SD" tvg-name="RCTI" group-title="National TV" ch-number="1" tvg-logo="https://thumbor.prod.vidiocdn.com/9c-sEWp6Du7DoWDn56cjma0gMpY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png",RCTI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://linier-rcti.rctiplus.id/rcti-sdi.m3u8
+https://raw.githubusercontent.com/quuen2024/life/refs/heads/queen/rcti.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV.id@SD" tvg-name="MNCTV" group-title="National TV" ch-number="2" tvg-logo="https://thumbor.prod.vidiocdn.com/H-nyot3OCOIHY7qtKmguKyIUeBw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/ca65b5.png",MNCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
