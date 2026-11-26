@@ -469,13 +469,15 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/602/602.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://op-group1-densxvisionhd-1.dens.tv/s/s16/index.m3u8
 
-#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" tvg-name="TV5Monde" group-title="Entertainment" ch-number="60" tvg-logo="https://thumbor.prod.vidiocdn.com/fEkhJYuokMUBuhm5_lg-VO63x1s=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17278/8e6d94.png",TV5Monde
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" tvg-name="TV5Monde" group-title="Entertainment" ch-number="60" tvg-logo="https://thumbor.prod.vidiocdn.com/fEkhJYuokMUBuhm5_lg-VO63x1s=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17278/8e6d94.png",TV5Monde HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-origin=https://www.visionplus.id
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://dsgtq5sngxkde.cloudfront.net/tv5/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17278&type=drm
+https://vidio123.mikrofast.web.id/vidio/17278/index.mpd
 
 #EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-name="Bloomberg" group-title="News" ch-number="61" tvg-logo="https://thumbor.prod.vidiocdn.com/5383je3X8Fd8Z62ixQXN27SWrXY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/22252/df871e.png",Bloomberg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
