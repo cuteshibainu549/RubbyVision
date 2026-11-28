@@ -667,53 +667,43 @@ https://dsgtq5sngxkde.cloudfront.net/moonbug/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOAsia.sg@SD" tvg-name="HBO" group-title="Movies" ch-number="83" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg",HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://www.cubmu.com/
-#EXTVLCOPT:http-origin=https://www.cubmu.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/SEJPLW15/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 
 #EXTINF:-1 tvg-id="HBOFamilyAsia.sg@SD" tvg-name="HBO Family" group-title="Movies" ch-number="84" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-Familly-180x180_2025_11_05_11_14_46.jpg",HBO Family HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://www.cubmu.com/
-#EXTVLCOPT:http-origin=https://www.cubmu.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/SEJPLUZhbWlseS1teQ/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+https://cnt1-streamer8.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
 #EXTINF:-1 tvg-id="HBOHitsAsia.sg@SD" tvg-name="HBO Hits" group-title="Movies" ch-number="85" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-Hits-180x180_2025_11_05_11_23_20.jpg",HBO Hits HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://www.cubmu.com/
-#EXTVLCOPT:http-origin=https://www.cubmu.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/SEJPIEhpdHM/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
+https://cnt1-streamer7.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
 
 #EXTINF:-1 tvg-id="HBOSignatureAsia.sg@SD" tvg-name="HBO Signature" group-title="Movies" ch-number="86" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-Signature-180x180_2025_11_05_12_57_49.jpg",HBO Signature HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://www.cubmu.com/
-#EXTVLCOPT:http-origin=https://www.cubmu.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
+https://cnt1-streamer4.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
 
 #EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" tvg-name="CINEMAX" group-title="Movies" ch-number="87" tvg-logo="https://images.indihometv.com/images/channels/imageCir_Cinemax-180x180_2025_11_05_13_11_15.jpg",Cinemax HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referer=https://www.cubmu.com/
-#EXTVLCOPT:http-origin=https://www.cubmu.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/Q2luZW1heA/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
+https://cnt1-streamer7.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 
 #EXTINF:-1 tvg-id="Thrill.hk@SD" tvg-name="Thrill" group-title="Movies" ch-number="88" tvg-logo="https://images.indihometv.com/images/channels/image_ch_thrill.png",Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
