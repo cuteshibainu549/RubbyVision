@@ -865,7 +865,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/403/403.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dsgtq5sngxkde.cloudfront.net/spotv2/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSports1.qa@Indonesia" tvg-name="beIN SPORTS" group-title="Sports" ch-number="106" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png",beIN Sports 1 HD
+#EXTINF:-1 tvg-id="beINSports1.qa@Indonesia" tvg-name="beIN SPORTS" group-title="Sports" ch-number="106" tvg-logo="https://www.visionplus.id/images/repository/756/576756-SQUARE-l.jpg",beIN Sports 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -873,7 +873,7 @@ https://dsgtq5sngxkde.cloudfront.net/spotv2/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dsgtq5sngxkde.cloudfront.net/bein1/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSports2.qa@MENA" tvg-name="beIN SPORTS 2" group-title="Sports" ch-number="107" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png",beIN Sports 2 HD
+#EXTINF:-1 tvg-id="beINSports2.qa@MENA" tvg-name="beIN SPORTS 2" group-title="Sports" ch-number="107" tvg-logo="https://www.visionplus.id/images/repository/757/576757-SQUARE-l.jpg",beIN Sports 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -881,7 +881,7 @@ https://dsgtq5sngxkde.cloudfront.net/bein1/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dsgtq5sngxkde.cloudfront.net/bein2/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSports3.qa@Indonesia" tvg-name="beIN SPORTS 3" group-title="Sports" ch-number="108" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png",beIN Sports 3 HD
+#EXTINF:-1 tvg-id="beINSports3.qa@Indonesia" tvg-name="beIN SPORTS 3" group-title="Sports" ch-number="108" tvg-logo="https://www.visionplus.id/images/repository/758/576758-SQUARE-l.jpg",beIN Sports 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
