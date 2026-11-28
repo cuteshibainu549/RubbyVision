@@ -865,7 +865,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/403/403.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dsgtq5sngxkde.cloudfront.net/spotv2/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSports1.qa@Indonesia" tvg-name="beIN SPORTS" group-title="Sports" ch-number="106" tvg-logo="https://www.visionplus.id/images/repository/756/576756-SQUARE-l.jpg",beIN Sports 1 HD
+#EXTINF:-1 tvg-id="beINSports1.qa@Indonesia" tvg-name="beIN SPORTS" group-title="Sports" ch-number="106" tvg-logo="https://www.visionplus.id/images/repository/756/576756-SQUARE-l.jpg",beIN Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
