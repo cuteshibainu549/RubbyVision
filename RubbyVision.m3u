@@ -353,11 +353,11 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h38/index.m3u8
 
 #EXTINF:-1 tvg-id="DW.de@English" tvg-name="DW English" group-title="News" ch-number="44" tvg-logo="https://images.indihometv.com/images/channels/image_ch_dwtv.png",DW English HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-origin=https://www.visionplus.id
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://vidio123.mikrofast.web.id/vidio/5075/index.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dsgtq5sngxkde.cloudfront.net/dwtv/index.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-name="NHK World Japan" group-title="News" ch-number="45" tvg-logo="https://images.indihometv.com/images/channels/image_ch_nhkworldjapan.png",NHK World Japan HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
