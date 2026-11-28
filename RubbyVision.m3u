@@ -131,13 +131,13 @@ https://vidio123.mikrofast.web.id/vidio/777/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://vidio123.mikrofast.web.id/vidio/6165/index.mpd
 
-#EXTINF:-1 tvg-id="TVRI.id@SD" tvg-name="TVRI" group-title="National TV" ch-number="17" tvg-logo="https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png",TVRI HD
+#EXTINF:-1 tvg-id="TVRI.id@SD" tvg-name="TVRI" group-title="National TV" ch-number="17" tvg-logo="https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png",TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-origin=https://www.visionplus.id
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://vidio123.mikrofast.web.id/vidio/6441/index.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dsgtq5sngxkde.cloudfront.net/tvri/index.m3u8
 
 #EXTINF:-1 tvg-id="SinPoTV.id@HD" tvg-name="Sin Po TV" group-title="News" ch-number="18" tvg-logo="https://thumbor.prod.vidiocdn.com/j6L0yLX8CtZTUnIO5aMzs0tNkvI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/19046/aaa3fa.png",Sin Po TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
