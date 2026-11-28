@@ -895,7 +895,7 @@ https://dsgtq5sngxkde.cloudfront.net/bein3/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dsgtq5sngxkde.cloudfront.net/fightsports/index.m3u8
 
-#EXTINF:-1 tvg-id="FightSports.us@SD" tvg-name="Fight Sports" group-title="Sports" ch-number="110" tvg-logo="https://images.indihometv.com/images/channels/image_ch_fightsport.png",Fight Sports HD
+#EXTINF:-1 tvg-id="MusikIndonesia.id@SD" tvg-name="Musik Indonesia" group-title="Music" ch-number="110" tvg-logo="https://images.indihometv.com/images/channels/image_ch_musikindonesia.png",Musik Indonesia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://www.cubmu.com/
 #EXTVLCOPT:http-origin=https://www.cubmu.com
@@ -903,7 +903,7 @@ https://dsgtq5sngxkde.cloudfront.net/fightsports/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/Q05OaS1teQ/manifest.mpd
+https://cdnjktbpid37.cubmu.com/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/TXVzaWsgSW5kb25lc2lh/manifest.mpd
 
 #EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg@SD" tvg-name="Crime Investigation" group-title="Knowledge" ch-number="111" tvg-logo="https://images.indihometv.com/images/channels/image_ch_crime+investigation.png",Crime Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
