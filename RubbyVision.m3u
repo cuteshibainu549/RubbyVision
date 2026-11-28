@@ -3,28 +3,28 @@
 
 ##########################RubbyVision##########################
 
-#EXTINF:-1 tvg-id="RCTI.id@SD" tvg-name="RCTI" group-title="National TV" ch-number="1" tvg-logo="https://thumbor.prod.vidiocdn.com/9c-sEWp6Du7DoWDn56cjma0gMpY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png",RCTI HD
+#EXTINF:-1 tvg-id="RCTI.id@SD" tvg-name="RCTI" group-title="National TV" ch-number="1" tvg-logo="https://images.indihometv.com/images/channels/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rctiplus123.mikrofast.my.id/rctiplus/rcti/redirect.m3u8
 
-#EXTINF:-1 tvg-id="MNCTV.id@SD" tvg-name="MNCTV" group-title="National TV" ch-number="2" tvg-logo="https://thumbor.prod.vidiocdn.com/H-nyot3OCOIHY7qtKmguKyIUeBw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/ca65b5.png",MNCTV HD
+#EXTINF:-1 tvg-id="MNCTV.id@SD" tvg-name="MNCTV" group-title="National TV" ch-number="2" tvg-logo="https://images.indihometv.com/images/channels/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rctiplus123.mikrofast.my.id/rctiplus/mnctv/redirect.m3u8
 
-#EXTINF:-1 tvg-id="GTV.id@SD" tvg-name="GTV" group-title="National TV" ch-number="3" tvg-logo="https://thumbor.prod.vidiocdn.com/6uEQ8IC06gH6XiMTVHtlRr1HAOE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/810229.png",GTV HD
+#EXTINF:-1 tvg-id="GTV.id@SD" tvg-name="GTV" group-title="National TV" ch-number="3" tvg-logo="https://images.indihometv.com/images/channels/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",GTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rctiplus123.mikrofast.my.id/rctiplus/gtv/redirect.m3u8
 
-#EXTINF:-1 tvg-id="iNews.id@SD" tvg-name="iNews" group-title="National TV" ch-number="4" tvg-logo="https://thumbor.prod.vidiocdn.com/BmeGg2IWkB_FAVPDviCk8gP8qcw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5409/c40666.png",iNews HD
+#EXTINF:-1 tvg-id="iNews.id@SD" tvg-name="iNews" group-title="National TV" ch-number="4" tvg-logo="https://images.indihometv.com/images/channels/image_ch_inews.png",iNews HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -107,13 +107,13 @@ https://vidio123.mikrofast.web.id/vidio/1561/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://vidio123.mikrofast.web.id/vidio/783/index.mpd
 
-#EXTINF:-1 tvg-id="KompasTV.id@SD" tvg-name="Kompas TV" group-title="National TV" ch-number="14" tvg-logo="https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png",Kompas TV HD
+#EXTINF:-1 tvg-id="KompasTV.id@SD" tvg-name="Kompas TV" group-title="National TV" ch-number="14" tvg-logo="https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-origin=https://www.visionplus.id
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://op-group1-densxvisionhd-1.dens.tv/s/s104/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/kompas/index.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-name="Metro TV" group-title="National TV" ch-number="15" tvg-logo="https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png",Metro TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
@@ -123,7 +123,7 @@ https://op-group1-densxvisionhd-1.dens.tv/s/s104/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://vidio123.mikrofast.web.id/vidio/777/index.mpd
 
-#EXTINF:-1 tvg-id="BTV.id@SD" tvg-name="BTV" group-title="National TV" ch-number="16" tvg-logo="https://thumbor.prod.vidiocdn.com/MDo4Nw4gKVm-8FLS2uBE7VrBrVg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/7cd920.png",BTV HD
+#EXTINF:-1 tvg-id="BTV.id@SD" tvg-name="BTV" group-title="National TV" ch-number="16" tvg-logo="https://images.indihometv.com/images/channels/image_ch_btv.png",BTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
@@ -139,7 +139,7 @@ https://vidio123.mikrofast.web.id/vidio/6165/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dsgtq5sngxkde.cloudfront.net/tvri/index.m3u8
 
-#EXTINF:-1 tvg-id="SinPoTV.id@HD" tvg-name="Sin Po TV" group-title="News" ch-number="18" tvg-logo="https://thumbor.prod.vidiocdn.com/j6L0yLX8CtZTUnIO5aMzs0tNkvI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/19046/aaa3fa.png",Sin Po TV HD
+#EXTINF:-1 tvg-id="SinPoTV.id@HD" tvg-name="Sin Po TV" group-title="News" ch-number="18" tvg-logo="https://images.indihometv.com/images/channels/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg",Sin Po TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
@@ -203,7 +203,7 @@ https://dsgtq5sngxkde.cloudfront.net/balitv/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dsgtq5sngxkde.cloudfront.net/tv9/index.m3u8
 
-#EXTINF:-1 tvg-id="DMITV.id@SD" tvg-name="DMI TV" group-title="Religion" ch-number="26" tvg-logo="https://thumbor.prod.vidiocdn.com/XudiSJe7FNdZ4dBfDmy-5X0MwZo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12607/de1855.png",DMI TV HD
+#EXTINF:-1 tvg-id="DMITV.id@SD" tvg-name="DMI TV" group-title="Religion" ch-number="26" tvg-logo="https://images.indihometv.com/images/channels/imageCir_DMITV-180x180_2025_11_06_11_00_00.jpg",DMI TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
@@ -267,7 +267,7 @@ https://vidio123.mikrofast.web.id/vidio/10975/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://vidio123.mikrofast.web.id/vidio/6898/index.mpd
 
-#EXTINF:-1 tvg-id="JTV.id@SD" tvg-name="JTV" group-title="National TV" ch-number="34" tvg-logo="https://thumbor.prod.vidiocdn.com/BtGWKOWXdR9CGmW_iZPHA_zg8lQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/1119f8.png",JTV HD
+#EXTINF:-1 tvg-id="JTV.id@SD" tvg-name="JTV" group-title="National TV" ch-number="34" tvg-logo="https://images.indihometv.com/images/channels/image_ch_jtv.png",JTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
@@ -359,7 +359,7 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h38/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://vidio123.mikrofast.web.id/vidio/5075/index.mpd
 
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-name="NHK World Japan" group-title="News" ch-number="45" tvg-logo="https://thumbor.prod.vidiocdn.com/xeyp-d3Wx2dHs3xmmGdX-fsjOw8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7968/069757.png",NHK World Japan HD
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-name="NHK World Japan" group-title="News" ch-number="45" tvg-logo="https://images.indihometv.com/images/channels/image_ch_nhkworldjapan.png",NHK World Japan HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -481,7 +481,7 @@ https://cdnjktbpid37.cubmu.com/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/Q05
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://op-group1-densxvisionhd-1.dens.tv/s/s16/index.m3u8
 
-#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" tvg-name="TV5Monde" group-title="Entertainment" ch-number="60" tvg-logo="https://thumbor.prod.vidiocdn.com/fEkhJYuokMUBuhm5_lg-VO63x1s=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17278/8e6d94.png",TV5Monde HD
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" tvg-name="TV5Monde" group-title="Entertainment" ch-number="60" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tv5monde.png",TV5Monde HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
@@ -491,7 +491,7 @@ https://op-group1-densxvisionhd-1.dens.tv/s/s16/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=17278&type=drm
 https://vidio123.mikrofast.web.id/vidio/17278/index.mpd
 
-#EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-name="Bloomberg" group-title="News" ch-number="61" tvg-logo="https://thumbor.prod.vidiocdn.com/5383je3X8Fd8Z62ixQXN27SWrXY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/22252/df871e.png",Bloomberg
+#EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-name="Bloomberg" group-title="News" ch-number="61" tvg-logo="https://images.indihometv.com/images/channels/image_ch_bloomberg.png",Bloomberg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -499,7 +499,7 @@ https://vidio123.mikrofast.web.id/vidio/17278/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dsgtq5sngxkde.cloudfront.net/bloomberg/index.m3u8
 
-#EXTINF:-1 tvg-id="France24.fr@English" tvg-name="France 24" group-title="News" ch-number="62" tvg-logo="https://thumbor.prod.vidiocdn.com/O7J63I0asbTwsKqTu14_7U6z-r8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/22337/14b350.png",France 24 English
+#EXTINF:-1 tvg-id="France24.fr@English" tvg-name="France 24" group-title="News" ch-number="62" tvg-logo="https://images.indihometv.com/images/channels/image_ch_france24.png",France 24 English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -669,7 +669,7 @@ https://cdnjktbpid37.cubmu.com/riutx01-8d60a02923af3b585decfb9bea4655d9/dash/RHV
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dsgtq5sngxkde.cloudfront.net/cbeebies/index.m3u8
 
-#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-name="Zoo Moo" group-title="Kids" ch-number="82" tvg-logo="https://thumbor.prod.vidiocdn.com/vQdbJZqHtzPPXckjO0Hy8yy-3_0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6533/f6c9c0.png",ZooMoo HD
+#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-name="Zoo Moo" group-title="Kids" ch-number="82" tvg-logo="https://www.visionplus.id/images/repository/871/576871-SQUARE-l.jpg",ZooMoo HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
@@ -841,7 +841,7 @@ https://dsgtq5sngxkde.cloudfront.net/hitsmovies/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dsgtq5sngxkde.cloudfront.net/zeebioskop/index.m3u8
 
-#EXTINF:-1 tvg-id="ROCKAction.sg@SD" tvg-name="Rock Action" group-title="Movies" ch-number="103" tvg-logo="https://thumbor.prod.vidiocdn.com/KNwURMx7JBhbW7yXRRo9_SQUvHM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8121/e9e2b9.png",Rock Action HD
+#EXTINF:-1 tvg-id="ROCKAction.sg@SD" tvg-name="Rock Action" group-title="Movies" ch-number="103" tvg-logo="https://images.indihometv.com/images/channels/image_ch_rockaction.png",Rock Action HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 220333QAG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
